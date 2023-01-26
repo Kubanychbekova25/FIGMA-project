@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FIGMA-project/static/css/main.e5dfbccb.css",
+    "main.js": "/FIGMA-project/static/js/main.824765ac.js",
+    "static/js/787.e5e50ad8.chunk.js": "/FIGMA-project/static/js/787.e5e50ad8.chunk.js",
+    "static/media/summaryImage.jpg": "/FIGMA-project/static/media/summaryImage.058e3a5749d88597754f.jpg",
+    "static/media/Basket-icons.svg": "/FIGMA-project/static/media/Basket-icons.c36faa3efca4c2a3b7311ff4f8994381.svg",
+    "index.html": "/FIGMA-project/index.html",
+    "static/media/plus.svg": "/FIGMA-project/static/media/plus.f6449d6005345c09378ddf02e862b973.svg",
+    "main.e5dfbccb.css.map": "/FIGMA-project/static/css/main.e5dfbccb.css.map",
+    "main.824765ac.js.map": "/FIGMA-project/static/js/main.824765ac.js.map",
+    "787.e5e50ad8.chunk.js.map": "/FIGMA-project/static/js/787.e5e50ad8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5dfbccb.css",
+    "static/js/main.824765ac.js"
+  ]
+}
